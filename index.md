@@ -9,4 +9,4 @@ This is my attempt at making a front page that doesn't suck
 Hello world I guess ?
 ````
 
-`*** Python >>> Java, I'll fight you ***` text
+`*** Python >>> Java, I'll fight you ***`
