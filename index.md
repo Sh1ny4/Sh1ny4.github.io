@@ -1,13 +1,13 @@
 ## This is just a modificatioon of a basic github page
 ### Markdown is pretty easy so far
 
-````
+```
 This is my attempt at making a front page that doesn't sucks, using basic markdown
 
 Hello world I guess ?
 
 Also having premade pages really helps, since I just have to change a few lines instead of creating a full html page, which I will never attempt again
-````
+```
 
 A nice picture while I am here
 
