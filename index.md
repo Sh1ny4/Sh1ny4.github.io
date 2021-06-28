@@ -7,11 +7,12 @@ This is my attempt at making a front page that doesn't sucks, using basic markdo
 So Hello world I guess ?
 
 I wonder how this kind of page fits within the suckless philosophy described in these sites
-`
+
+```
  - https://motherfuckingwebsite.com/
  - http://bettermotherfuckingwebsite.com/
  - https://thebestmotherfucking.website/
-`
+```
 
 Also having premade pages really helps, since I just have to change a few lines instead of creating a full html page, which I will never attempt again
 
@@ -20,5 +21,5 @@ A nice picture while I am here
 ![image](https://user-images.githubusercontent.com/60614398/123559932-748b7300-d79f-11eb-864d-55415385f454.png)
 
 ````
-If you've read this, you've lost the game
+If you've read this, you've lost.
 ````
