@@ -8,9 +8,9 @@ So Hello world I guess ?
 
 I wonder how this kind of page fits within the suckless philosophy described in these sites
 `
-https://motherfuckingwebsite.com/
-http://bettermotherfuckingwebsite.com/
-https://thebestmotherfucking.website/
+ - https://motherfuckingwebsite.com/
+ - http://bettermotherfuckingwebsite.com/
+ - https://thebestmotherfucking.website/
 `
 
 Also having premade pages really helps, since I just have to change a few lines instead of creating a full html page, which I will never attempt again
